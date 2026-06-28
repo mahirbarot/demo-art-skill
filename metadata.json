@@ -1,0 +1,6 @@
+{
+  "name": "Has Art Skill",
+  "description": "A modern, premium digital graphics and vector production agency website with Google Sheets synced real-time queue management admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
